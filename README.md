@@ -1,16 +1,14 @@
-### Hi there 👋
+<h3 align="center"> Greetings, human. Welcome to MY hub.</h3>
+<hr>
 
-<!--
-**goonerlagoon/goonerlagoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Nothing outside of the usual here _just yet_.
 
-Here are some ideas to get you started:
+However, if your curiosity eventually drives you to the source of my codes (hehe), feel free to leave helpful feedback if you see room for improvement anywhere.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm obsessively learning/reading about code architecture currently so I'm especially open to tips and different perspectives in that department.
+
+
+Some social media handles so you can call me or beep me if you wanna reach me:
+   
+   - [Twitter](https://twitter.com/goonerlagoon "My Twitter") | [LinkedIn](https://www.linkedin.com/in/gavin-a-810b6524/ "My LinkedIn") | [Reddit](reddit.com/u/goonerlagooner "My Reddit")
+  
