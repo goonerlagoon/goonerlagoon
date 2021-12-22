@@ -7,8 +7,7 @@ However, if your curiosity drives you to the source of my codes (hehe), feel fre
 
 I'm obsessively learning/reading about code architecture currently so I'm especially open to tips and different perspectives in that space.
 
-
-Some social media handles so you can call me or beep me if you wanna reach me:
+Some social media handles so you can call me beep me if you wanna reach me:
    
-   - [Twitter](https://twitter.com/goonerlagoon "My Twitter") | [LinkedIn](https://www.linkedin.com/in/gavin-a-810b6524/ "My LinkedIn") | [Reddit](reddit.com/u/goonerlagooner "My Reddit")
+   - [Twitter](https://twitter.com/goonerlagoon "My Twitter") | [LinkedIn](https://www.linkedin.com/in/gavin-a-810b6524/ "My LinkedIn") | [Reddit](https://www.reddit.com/u/goonerlagooner "My Reddit")
   
