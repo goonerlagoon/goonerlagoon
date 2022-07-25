@@ -7,7 +7,7 @@ However, if your curiosity drives you to the source of my codes (*kneeslap*), fe
 
 I'm obsessively learning/reading about code architecture currently so I'm especially open to tips and different perspectives in that space.
 
-Some social media handles so you can call me beep me if you wanna reach me:
+Some social media handle(s) so you can call me beep me if you wanna reach me:
    
    - [Reddit](https://www.reddit.com/u/goonerlagooner "My Reddit")
   
