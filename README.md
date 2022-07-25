@@ -9,5 +9,5 @@ I'm obsessively learning/reading about code architecture currently so I'm especi
 
 Some social media handles so you can call me beep me if you wanna reach me:
    
-   - [Twitter](https://twitter.com/goonerlagoon "My Twitter") | [LinkedIn](https://www.linkedin.com/in/gavin-a-810b6524/ "My LinkedIn") | [Reddit](https://www.reddit.com/u/goonerlagooner "My Reddit")
+   - [Reddit](https://www.reddit.com/u/goonerlagooner "My Reddit")
   
